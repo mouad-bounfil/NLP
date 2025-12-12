@@ -1,0 +1,2 @@
+1- Trined Models For NLP: https://www.kaggle.com/models?query=text-embedding&tfhub-redirect=true
+2- Regular expression Website To Practice : https://regex101.com/
